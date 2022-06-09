@@ -1,1 +1,2 @@
 # odin-recipes
+In the odin-recipes project, I will make three html documents to display three different recipes. I will add what the recipe is for at the title using the heading tag. Then I will add an image of the food item using the img tag. Next I will make an unordered list of the ingredients. Finally I will make an ordered list for the instructions on how to make the recipes.
